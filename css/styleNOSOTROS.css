@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+.wpp{margin: 0px;}
+.listaNos{ font-size: 30px;  
+}
+.nav-link{color: white;}
+.titulopag{
+    font-size: 60px;
+    margin: 0px;
+}
+.col-8{ font-size: 25px;
+margin-top: 20px;}
+
+.h3Footer{ 
+    margin: 0px;
+    text-align: center;
+}
+.copyr{
+    margin-bottom: 0px;
+}
+.divMain1{
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+.img1{
+    margin: 5px;
+    position: relative;
+    right: 50px;
+}
+
+.divFotos{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    left: 20px;
+    right: 0;
+    text-align: center; 
+    justify-content: space-between;  
+}
+.img-fluid {
+    max-width: 90%;}
+.nos{
+    padding: none;
+    margin: 0px 0px;
+}
+.footer{padding: 0px 0px;}
+ 
+.container{padding: 0px 0px 0px 0px;
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+.row2{margin-right: 0px;
+    margin-left: 0px;}
+.row3{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.imagenNos{position: relative;
+    top: 220px}
+    
